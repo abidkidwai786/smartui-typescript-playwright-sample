@@ -1,0 +1,17 @@
+{
+  "name": "smartui-typescript-playwright-sample",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "ts-node lambdatest.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.1.0",
+    "playwright": "^1.33.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
