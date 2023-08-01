@@ -17,7 +17,7 @@ const capabilities = {
         network: true,
         video: true,
         console: true,
-        'smartUI.project': 'Testing Playwright TypeScript Sample',
+        'smartUIProjectName': 'Testing Playwright TypeScript Sample',
     },
 };
 
