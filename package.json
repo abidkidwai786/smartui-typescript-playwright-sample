@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "ts-node lambdatest1.ts"
+    "test-ts": "ts-node lambdatest1.ts",
+    "test-js": "ts-node lambdatest2.js"
   },
   "keywords": [],
   "author": "",
